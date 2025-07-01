@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Mariana Carmo Duarte
+title: Mariana C. Duarte
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Mariana
-last_name: Carmo Duarte
+first_name: Mariana C.
+last_name: Duarte
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher 
+role: Researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
