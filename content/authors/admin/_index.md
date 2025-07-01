@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mariana C. Duarte
+title: Mariana Duarte
 
 # Name pronunciation (optional)
 name_pronunciation: 
