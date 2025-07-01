@@ -33,7 +33,6 @@ interests:
   - Party Competition
   - EU Politicisation
   - Migration
-  - Survey Analysis
 
 # Education to show in About widget
 education:
